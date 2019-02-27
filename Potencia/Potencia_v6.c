@@ -2,6 +2,7 @@
 int main (){
 	int base, exponente, salida;
 	int i;
+	printf("Programa que eleva un numero a otro .\n")
 	printf("Escriba el numero base.\n");
 	scanf("%i", &base);
 	printf("Escriba el exponente.\n");
